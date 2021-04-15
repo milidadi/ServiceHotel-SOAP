@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F66D42A1-CDDA-4395-AC5D-2E35FBC82C48}|">
+  <MonoDevelop.Ide.ItemProperties.ServiceHotels PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServiceHotels/ServiceHotel.asmx.cs">
+    <Files>
+      <File FileName="ServiceHotels/ServiceHotel.asmx" Line="1" Column="1" />
+      <File FileName="ServiceHotels/ServiceHotel.asmx.cs" Line="14" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ServiceHotels" expanded="True">
+            <Node name="ServiceHotels" expanded="True">
+              <Node name="ServiceHotel.asmx" expanded="True">
+                <Node name="ServiceHotel.asmx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
